@@ -73,3 +73,13 @@ def hem_img()
         hem['img_link']=browser.links.find_by_text('Sample').first['href']
         img_urls.append(hem)
         browser.back()
+
+def scrape()
+    scrape={
+        'mars_news':mars_news,
+        'jpl':jpl,
+        'mars_table':mars_table,
+        'hem_img':hem
+    }
+
+browser.quit()
