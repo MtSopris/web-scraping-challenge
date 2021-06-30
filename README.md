@@ -8,8 +8,10 @@ mission_to_mars.ipynb is code to scrape four websites containing data about mars
 
 scrape_mars.py is the python code to scrape the four websites and collects it into a dictonary for the app.py flask app.
 
-app.py is an app to collect the the dat and transfer it into a mongo database.
+app.py is an app to collect the data and transfer it into a mongo database.
 
-index.html is the site to present the dat collectd and offer a scrape button to update the data for the user.
+index.html is the site to present the data collectd and offer a scrape button to update the data for the user.
 
 also included are the images for the output of the html for referance.  
+
+<image src='Mission_to_Mars\images\readmeImage.PNG' alt='readmeImage.PNG' style='hight:400px; width: 600px;'/>
