@@ -14,4 +14,4 @@ index.html is the site to present the data collectd and offer a scrape button to
 
 also included are the images for the output of the html for referance.  
 
-<image src='Mission_to_Mars\images\readmeImage.PNG' alt='readmeImage.PNG' style='hight:400px; width: 600px;'/>
+<image src='Missions_to_Mars\images\readmeImage.PNG' alt='readmeImage.PNG' style='hight:400px; width: 600px;'/>
